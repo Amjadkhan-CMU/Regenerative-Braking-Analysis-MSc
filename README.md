@@ -3,7 +3,7 @@
 
 MSc Dissertation project for CST7000 — Robotics and Artificial Intelligence
 
-Cardiff School of Technologies · Cardiff Metropolitan University · August, 2026
+**Cardiff School of Technologies · Cardiff Metropolitan University · August, 2026**
 
 Author: **Md Amjad Hossain Khan** (st20341331)
 
