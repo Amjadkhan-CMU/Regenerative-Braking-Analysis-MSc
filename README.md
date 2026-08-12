@@ -83,7 +83,9 @@ If you refer to this work, please cite:
 ## Contact
 
 **Md Amjad Hossain Khan**
+
 Amjadhkhan.aust@gmail.com
+
 [LinkedIn](https://linkedin.com/in/amjad-hossain-khan-522685179)
 
 ---
