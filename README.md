@@ -31,14 +31,15 @@ A physics-based energy model was built in Python, independently cross-validated 
 ---
 
 ## Repository Contents
-
-| File | Description |
+| Path | Description |
 |------|-------------|
-| `Regen_Braking_Analysis_st20341331.ipynb` | Main analysis notebook — full pipeline from data loading to ML |
-| `udds_validation.m` | MATLAB script that independently cross-validates the Python energy model |
-| `Dissertation_Results_st20341331.xlsx` | Processed results: per-event data, segment analysis, feature matrix, loss breakdown |
-| `/figures` | All generated figures used in the dissertation |
-
+| `notebooks/Regen_Braking_Analysis_st20341331.ipynb` | Main analysis notebook — full pipeline from data loading to ML |
+| `data/udds.txt` | EPA UDDS speed trace (input data) |
+| `Matlab/udds_validation.m` | MATLAB script that independently cross-validates the Python energy model |
+| `Matlab/MATLAB_Validation_Figure.png` | MATLAB validation output figure |
+| `outputs/figures/` | All generated figures used in the dissertation |
+| `outputs/All results from nototebook.xlsx` | Processed results: per-event data, segment analysis, feature matrix, loss breakdown |
+| `requirements.txt` | Python dependencies |
 ---
 
 ## Methodology in Brief
